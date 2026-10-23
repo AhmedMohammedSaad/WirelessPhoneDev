@@ -88,9 +88,4 @@ WirelessPhoneDev/
 * إعادة الاتصال في أي وقت بدون كابل نهائياً بضغطة واحدة.
 * متوافق 100% مع Flutter, Android Studio, VS Code مع دعم كامل للـ Hot Reload اللاسلكي.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-Based on Android Debug Bridge (ADB).
