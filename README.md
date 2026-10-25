@@ -2,7 +2,15 @@
 
 > **One-click Smart Wireless ADB & Screen Mirroring Toolkit for Mobile Engineers.** Debug, test, hot-reload, and mirror your Flutter, React Native, and Android apps wirelessly over Wi-Fi without cables or terminal commands.
 
+[![Download Ready-to-Use Release](https://img.shields.io/badge/Download-Ready--to--Use%20v1.0.0-brightgreen?style=for-the-badge&logo=windows)](https://github.com/AhmedMohammedSaad/WirelessPhoneDev/releases/tag/v1.0.0)
+
 ---
+
+## 📥 Download & Quick Start (For End-Users)
+You don't need to clone or configure any code. Just download the ready-to-run package:
+1. **[Download Latest Release (ZIP)](https://github.com/AhmedMohammedSaad/WirelessPhoneDev/releases/tag/v1.0.0)**
+2. Extract the ZIP file anywhere on your PC.
+3. Double-click `Connect_Wireless.bat` and start coding!
 
 ## 🌟 Clean, Zero-Clutter Architecture
 
