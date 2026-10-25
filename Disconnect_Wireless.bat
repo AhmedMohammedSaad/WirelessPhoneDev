@@ -3,10 +3,10 @@ title Disconnect Wireless Phone
 echo ===================================================
 echo        Disconnecting Wireless ADB Devices
 echo ===================================================
-"%~dp0adb.exe" disconnect
+"%~dp0bin\adb.exe" disconnect
 echo.
 echo Current ADB Devices:
-"%~dp0adb.exe" devices
+"%~dp0bin\adb.exe" devices
 echo.
 echo Done.
 pause

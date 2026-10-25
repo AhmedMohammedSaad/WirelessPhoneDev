@@ -1,5 +1,6 @@
 # Sensitive Local Network Configuration
 phone_ip.txt
+bin/phone_ip.txt
 
 # Python & System
 __pycache__/
